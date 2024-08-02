@@ -13,8 +13,7 @@ Eddie:
 •	What factors from among the following play a role in missed appointments? Which do not?  
   o Age
   o Gender
-  o Neighborhood
-  o Scholarship 
+  o Neighborhood 
 
 Eric: 
 •	Do patients who answered positively to a conditional question show up at a different rate than those who did not? Conditionals including:
