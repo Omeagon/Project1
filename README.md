@@ -9,6 +9,13 @@
 
 ----
 
+# Project 1 Analysis
+
+- The analysis is contained in the DataAnalysisFinal.ipynb notebook file, included in the header for each section.
+- The powerpoint Project 1.pptx also contains analysis. 
+  
+----
+
 # Project 1 Project Proposal
 
 - Project 1: Group 1 Project Proposal <<Eddie, Eric, Ross, & Steph>>
