@@ -1,21 +1,21 @@
 # Project 1 Final Submission Files
 
-Notebook file containing data cleaning: DataCleaning.ipynb
-Notebook file containing final analysis: DataAnalysisFinal.ipynb
-Output graphs: In output folder
-Powerpoint: _______
-Original data: KaggleV2-May-2016.csv (from https://www.kaggle.com/datasets/joniarroba/noshowappointments/data)
-Cleaned data: data_cleaned.csv
+- Notebook file containing data cleaning: DataCleaning.ipynb
+- Notebook file containing final analysis: DataAnalysisFinal.ipynb
+- Output graphs: In output folder
+- Powerpoint: _______
+- Original data: KaggleV2-May-2016.csv (from https://www.kaggle.com/datasets/joniarroba/noshowappointments/data)
+- Cleaned data: data_cleaned.csv
 
 ----
 
 # Project 1 Project Proposal
 
-Project 1: Group 1 Project Proposal <<Eddie, Eric, Ross, & Steph>>
+- Project 1: Group 1 Project Proposal <<Eddie, Eric, Ross, & Steph>>
 
-Our group is looking at using the Medical Appointment No Shows data set from Kaggle for the project <<https://www.kaggle.com/datasets/joniarroba/noshowappointments/data>>. 
+- Our group is looking at using the Medical Appointment No Shows data set from Kaggle for the project <<https://www.kaggle.com/datasets/joniarroba/noshowappointments/data>>. 
 
-This project tasks are assigned as follows: 
+- This project tasks are assigned as follows: 
 
 Eddie:
 •	What factors from among the following play a role in missed appointments? Which do not?  
