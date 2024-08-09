@@ -1,7 +1,15 @@
-# Project1
-Project 1 Repo
+# Project 1 Final Submission Files
 
-Data: https://www.kaggle.com/datasets/joniarroba/noshowappointments/data
+Notebook file containing data cleaning: DataCleaning.ipynb
+Notebook file containing final analysis: DataAnalysisFinal.ipynb
+Output graphs: In output folder
+Powerpoint: _______
+Original data: KaggleV2-May-2016.csv (from https://www.kaggle.com/datasets/joniarroba/noshowappointments/data)
+Cleaned data: data_cleaned.csv
+
+----
+
+# Project 1 Project Proposal
 
 Project 1: Group 1 Project Proposal <<Eddie, Eric, Ross, & Steph>>
 
