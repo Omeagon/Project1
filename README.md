@@ -17,34 +17,34 @@
 
 - This project tasks are assigned as follows: 
 
-Eddie:
-•	What factors from among the following play a role in missed appointments? Which do not?  
+- Eddie:
+-- What factors from among the following play a role in missed appointments? Which do not?  
   o Age
   o Gender
   o Neighborhood 
 
-Eric: 
-•	Do patients who answered positively to a conditional question show up at a different rate than those who did not? Conditionals including:
+- Eric: 
+-- Do patients who answered positively to a conditional question show up at a different rate than those who did not? Conditionals including:
   o Hypertension
   o Diabetes
   o Alcaholism
   o Handicap
   
-Steph:   
-•	Length of time between scheduled appointment and appointment date vs % of people who showed up to the appointment
+- Steph:   
+-- Length of time between scheduled appointment and appointment date vs % of people who showed up to the appointment
     o	Is there an optimal time to schedule an appointment so you do not miss it?
-•	Is there a day of the week that has a higher volume of missed appointments?
-•	Does the time of day that an appointment is scheduled impact the chances of the patient showing up?
+-- Is there a day of the week that has a higher volume of missed appointments?
+-- Does the time of day that an appointment is scheduled impact the chances of the patient showing up?
 
-Ross: 
-•	Why do 30% of patients miss their scheduled appointments? 
+- Ross: 
+-- Why do 30% of patients miss their scheduled appointments? 
     o	What factors cause this?
-•	What impact does the SMS received play in missed appointments?
-• PowerPoint Creation 
-• Analysis write up 
+-- What impact does the SMS received play in missed appointments?
+-- PowerPoint Creation 
+-- Analysis write up 
 
-Team: 
-Based on findings:
+- Team: 
+-- Based on findings:
   •	What steps can be taken by a company to predict/reduce the chance of a no show happening?
   •	Are there identifying factors that can be used to determine if someone is more or less likely to miss an appointment?
     o	Can this data be used by the scheduler to prevent multiple missed appointments in a day?
