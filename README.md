@@ -1,24 +1,24 @@
 # Project 1 Final Submission Files
 
 - Notebook file containing data cleaning: DataCleaning.ipynb
-- Notebook file containing final analysis: DataAnalysisFinal.ipynb
-- Output graphs: In output folder
+- Notebook file containing all of the individual analyses in one notebook file: DataAnalysisFinal.ipynb
+- Writeup: Writeup.docx, Writeup.pdf
 - Powerpoint: Project 1.pptx
+- Output graphs: In output folder (also in writeup and powerpoint)
 - Original data: KaggleV2-May-2016.csv (from https://www.kaggle.com/datasets/joniarroba/noshowappointments/data)
-- Cleaned data: data_cleaned.csv
+- Cleaned data (used in the analysis): data_cleaned.csv
 
 ----
 
 # Project 1 Analysis
 
-- The analysis is contained in the DataAnalysisFinal.ipynb notebook file, included in the header for each section.
-- The powerpoint Project 1.pptx also contains analysis. 
+- The most complete final analysis is contained in the Writeup.docx/Writeup.pdf. The powerpoint also contains analysis, but this is meant more for presentation, and detailed explanations in a report format are in the Writeup.docx/Writeup.pdf.
   
 ----
 
 # Project 1 Project Proposal
 
-- Project 1: Group 1 Project Proposal <<Eddie, Eric, Ross, & Steph>>
+- Project 1: Group 1 Project Proposal <<Eddie, Eric, Ross, Steph>>
 
 - Our group is looking at using the Medical Appointment No Shows data set from Kaggle for the project <<https://www.kaggle.com/datasets/joniarroba/noshowappointments/data>>. 
 
