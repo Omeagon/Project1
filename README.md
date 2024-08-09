@@ -18,7 +18,7 @@
 - This project tasks are assigned as follows: 
 
 - Eddie:
-  - What factors from among the following play a role in missed appointments? Which do not?  
+- - What factors from among the following play a role in missed appointments? Which do not?  
     - Age
     - Gender
     - Neighborhood 
