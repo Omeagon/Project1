@@ -1,4 +1,4 @@
-# Project 1 Final Submission Files
+# Project 1 Final Submission Files (contained in main or final-submission-files)
 
 - Notebook file containing data cleaning: DataCleaning.ipynb
 - Notebook file containing all of the individual analyses in one notebook file: DataAnalysisFinal.ipynb
